@@ -1,0 +1,4 @@
+/* Minimal App.css, as most styles are now inline or in index.css */
+.App {
+  min-height: 100vh;
+}
